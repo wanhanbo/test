@@ -263,7 +263,6 @@ Contributions to MatrixOne are welcome from everyone.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/wanhanbo"><img src="https://avatars.githubusercontent.com/u/97089788?v=4" width="100px;" alt=""/><br /><sub><b>wanhanbo</b></sub></a></td>
     <td align="center"><a href="https://github.com/dengn"><img src="https://avatars.githubusercontent.com/u/4965857?v=4" width="100px;" alt=""/><br /><sub><b>dengn</b></sub></a></td>
   </tr>
 </table>
