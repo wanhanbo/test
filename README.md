@@ -28,7 +28,7 @@
     <b>English</b>
   </a>
   <b>||</b>
-  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.zh.md">
+  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.cn.md">
     <b>简体中文</b>
   </a>
 </div>
