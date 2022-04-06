@@ -247,7 +247,7 @@ Contributions to MatrixOne are welcome from everyone.
 <br><!-- Do not remove start of hero-bot -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
+<!-- Do not remove end of hero-bot --><br>
 
 
 <!-- Do not remove end of hero-bot --><br>
