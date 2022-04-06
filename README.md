@@ -110,19 +110,6 @@ MatrixOne is a future-oriented hyper-converged cloud and edge native DBMS that s
 
 <br>
 
-<font size=5>**或者尝试折叠,如下：**</font>  
-
-### **Hyper-converged Engine**
-<details>
-  <summary><b>Monolithic Engine</b></summary>
-    A monolithic database engine is designed to support hybrid workloads: transactional, analytical, streaming, time-series, machine learning, etc.
-  </details>
-
-<details>
-  <summary><b>Built-in Streaming Engine</b></summary>
-  With the built-in streaming engine, MatrixOne supports in-database streaming processing by groundbreaking incremental materialized view maintenance.
-</details>
-
 
 ## 🔎 <a id="architecture">Architecture</a>
 MatrixOne consists of multiple components and form a complete system.  
@@ -284,9 +271,6 @@ Contributions to MatrixOne are welcome from everyone.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- Do not remove end of hero-bot --><br>
-
-
 <!-- Do not remove end of hero-bot --><br>
 
 ## <a id="license">License</a>
