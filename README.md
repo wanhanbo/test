@@ -23,6 +23,14 @@
   <a href="https://www.matrixorigin.io/">
    <b> Official Website</b>
   </a>
+  <br>
+  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.md">
+    <b>English</b>
+  </a>
+  <b>||</b>
+  <a href="https://github.com/matrixorigin/matrixone/blob/main/README.zh.md">
+    <b>简体中文</b>
+  </a>
 </div>
 
 Contents
@@ -173,7 +181,7 @@ For detailed information about **MatrixCube**, you can see [MatrixCube Tech Desi
 Get started with MatrixOne quickly by the following steps.
 ### ⚙️ Install MatrixOne
 MatrixOne supports Linux and MacOS. You can install MatrixOne either by [building from source](#building-from-source) or [using docker](#using-docker).
-#### Building from source
+#### **Building from source**
 
 1. Install Go (version 1.17 is required).
   
@@ -198,7 +206,25 @@ $ make build
 ```
 $ ./mo-server system_vars_config.toml
 ```
-#### Using docker
+
+#### **Downloading binary packages**
+
+Starting with 0.3.0, you can download binary packages directly to run MatrixOne in the X86_64 Linux environment.
+
+1. Download binary packages and decompress
+
+```
+$ wget https://github.com/matrixorigin/matrixone/releases/download/v0.3.0/mo-server-v0.3.0-linux-amd64.zip
+$ unzip mo-server-v0.3.0-linux-amd64.zip
+```
+
+2. Launch MatrixOne server
+
+```
+$./mo-server system_vars_config.toml
+```
+
+#### **Using docker**
 
 1. Install Docker, then verify that Docker daemon is running in the background:
 
